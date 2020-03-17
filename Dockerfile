@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.7
+FROM k8s.gcr.io/kube-proxy:v1.17.3
